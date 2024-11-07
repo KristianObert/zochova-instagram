@@ -15,7 +15,7 @@ export default function SimpleBottomNavigation() {
   const router = useRouter(); // Client-side routing
 //Kristian Obert
   return (
-    <Box sx={{ width: 500 }}>
+    <Box sx={{ width: '100%', position: 'fixed', bottom: 0, left: 0 }}>
       <BottomNavigation
         showLabels
         value={value}
