@@ -68,3 +68,24 @@ npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 npm run build na skontrolovanie
 
 ked niesu errory, uploadujeme
+
+------------------------------------------------------
+Dnes sa nám trom zrušil wls a zacali sme robit vo windows command line
+git clone https://github.com/KristianObert/zochova-instagram.git
+git config user.name "KristianObert"
+git config user.email "kristianobertweb@gmail.com"
+git remote -v
+npm install
+
+Prihlasili sme sa do gitu a natiahli projekt
+
+Dobiehal som hodiny co som chybal a prirabal folder prispevok a txs subor page
+NavBar.tsx v componentoch som dobiehal od spoluziakov ale hadzalo mi to navbar dolava tak som pridal prikaz
+<Box sx={{ width: '100%', position: 'fixed', bottom: 0, left: 0 }}>
+a potom som to mal v strede.
+
+Submit ako NavBar done + poznamky
+
+npm run dev
+npm run build
+npm start 
