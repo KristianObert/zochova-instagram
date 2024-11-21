@@ -89,3 +89,7 @@ Submit ako NavBar done + poznamky
 npm run dev
 npm run build
 npm start 
+
+---------------------------------
+dalsia hodina
+dodal som podstranku o mne a stiahol info iconu z mui
