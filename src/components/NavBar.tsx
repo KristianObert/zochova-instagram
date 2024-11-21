@@ -32,7 +32,7 @@ export default function SimpleBottomNavigation() {
         <BottomNavigationAction label="Domov" icon={<HomeIcon />} />
         <BottomNavigationAction label="Profily" icon={<PersonIcon />} />
         <BottomNavigationAction label="Príspevky" icon={<ArticleIcon />} />
-        <BottomNavigationAction label="O-nás" icon={<InfoIcon />} />
+        <BottomNavigationAction label="O-mne" icon={<InfoIcon />} />
       </BottomNavigation>
     </Box>
   );
