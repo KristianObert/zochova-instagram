@@ -32,9 +32,9 @@ export default function SimpleBottomNavigation() {
         <BottomNavigationAction label="Domov" icon={<HomeIcon />} />
         <BottomNavigationAction label="Profily" icon={<PersonIcon />} />
         <BottomNavigationAction label="Príspevky" icon={<ArticleIcon />} />
-        <BottomNavigationAction label="O-mne" icon={<InfoIcon />} />
+        <BottomNavigationAction label="O-nás" icon={<InfoIcon />} />
       </BottomNavigation>
     </Box>
   );
 }
-//Kristian Obert
+//Kristian Obert 
