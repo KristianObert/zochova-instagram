@@ -129,3 +129,7 @@ Poznámky ku prisme od Pána Učiteľa:
     npx prisma studio
 
     -------------------------------------
+
+Posledna hodina pred novymi pc
+
+----------------------------------------
