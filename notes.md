@@ -133,3 +133,7 @@ Poznámky ku prisme od Pána Učiteľa:
 Posledna hodina pred novymi pc
 
 ----------------------------------------
+
+Zoska-Gram-4H/notes 
+mame tam vsetky poznamky ku nainstalovaniu wsl ubuntu do noveho pc
+naklikat si stary projekt z githubu
